@@ -65,7 +65,7 @@ var ResourceRegistry []*schema.RegistryItem = []*schema.RegistryItem{
 	// GetS3BucketInventoryRegistryItem(),
 	// GetSecretsManagerSecret(),
 	// GetSSMActivationRegistryItem(),
-	// GetSSMParameterRegistryItem(),
+	GetSSMParameterRegistryItem(),
 	// GetSNSTopicRegistryItem(),
 	// GetSNSTopicSubscriptionRegistryItem(),
 	// GetSQSQueueRegistryItem(),
