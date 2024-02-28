@@ -1,7 +1,6 @@
 package aws
 
 import (
-	// "strconv"
 	"github.com/awslabs/goformation/v7/cloudformation/rds"
 	"github.com/rs/zerolog/log"
 
