@@ -20,7 +20,7 @@ var ResourceRegistry []*schema.RegistryItem = []*schema.RegistryItem{
 	// GetConfigOrganizationCustomRuleItem(),
 	// GetConfigOrganizationManagedRuleItem(),
 	// getDataTransferRegistryItem(),
-	// GetDBInstanceRegistryItem(),
+	GetDBInstanceRegistryItem(),
 	// GetDMSRegistryItem(),
 	// GetDocDBClusterInstanceRegistryItem(),
 	// GetDocDBClusterRegistryItem(),
